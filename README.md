@@ -1,1 +1,3 @@
-## This is for our Project 2 - Patient Support Forum 
+## Project 2 - Patient Support Forum 
+
+This is our Readme file.
